@@ -5,7 +5,7 @@
 
 ## 简介
 
-<img style="width:380px;height:280px" src="https://i.loli.net/2020/04/09/8ty1bQhq2BH6oIG.png"  alt="首页" align=center />
+<img style="zoom: 50%;" src="https://i.loli.net/2020/04/09/N9dKUfM27a6eVc4.png"  alt="首页" align=center />
 
 
 
