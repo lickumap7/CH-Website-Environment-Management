@@ -14,4 +14,4 @@
 
 
   [1]: https://i.loli.net/2020/04/09/8ty1bQhq2BH6oIG.png
-  [2]: https://www.microsoft.com/zh-cn/download/details.aspx?id=17718
+  [2]: https://www.microsoft.com/zh-cn/download/details.aspx?id=17718(url?_blank)
