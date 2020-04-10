@@ -28,13 +28,13 @@
 ## 支持
 
 
-|  Windows Xp  |  Windows 7  |  Windows 8  |  Windows 10  |
-| :----:  | :----:  | :----:  | :----:  |
-|   Not Support     |   Supported     |   Supported     |   Supported     |
+| Windows Xp  | Windows 7 | Windows 8 | Windows 10 |
+| :---------: | :-------: | :-------: | :--------: |
+| Not Support | Supported | Supported | Supported  |
 
-|  Windows Server 2008  |  Windows Server 2012  |  Windows Server 2016  |  Windows Server 2019  |
-| :----:  | :----:  | :----:  | :----:  |
-|   Supported     |   Supported     |   Supported     |   Supported     |
+| Windows Server 2008 | Windows Server 2012 | Windows Server 2016 | Windows Server 2019 |
+| :-----------------: | :-----------------: | :-----------------: | :-----------------: |
+|      Supported      |      Supported      |      Supported      |      Supported      |
 
 
 
@@ -43,15 +43,11 @@
 >* Microsoft .NET Framework 4 [[点击下载]](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)
 >* VC++ 2013运行库 (MySQL5.7运行库)
 >* JRE 1.8 (Tomcat8 所需)
->* 主程序 [[点击下载]](https://github.com/wzJun1/CH-Website-Environment-Management/releases/download/1.0.0/ch_start.zip)
->* 软件所需环境包 [[点击下载]](https://github.com/wzJun1/CH-Website-Environment-Management/releases/download/1.0.0/soft.zip)
+>* 主程序 [[点击下载]](https://github.com/wzJun1/CH-Website-Environment-Management/releases/download/1.0.0/soft.zip)
 
 
 
 ##  使用
 
-安装完成.NET和VC++ 2013运行库后，下载**主程序**解压，再下载**软件所需环境包**
+安装完成.NET和VC++ 2013运行库后，下载**主程序**解压运行
 
-然后请在主程序的**根目录**下，解压**软件所需环境包**
-
-之后在根目录下得到两个文件夹，soft和www，随后打开主程序start.exe运行
