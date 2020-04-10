@@ -50,3 +50,9 @@ Because I often run Java Web in a Windows environment, but at the same time can 
 
 After installing .NET 4.0 and VC ++ 2013 runtime library,Download**Main**Unzip And Run start.exe
 
+
+
+## Compile
+
+Visual Studio 2019
+Microsoft .NET Framework 4

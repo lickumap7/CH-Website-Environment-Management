@@ -51,3 +51,9 @@
 
 安装完成.NET和VC++ 2013运行库后，下载**主程序**解压运行
 
+
+
+## 编译
+
+Visual Studio 2019
+Microsoft .NET Framework 4
