@@ -10,6 +10,7 @@
 <img style="zoom: 50%;" src="https://i.loli.net/2020/04/09/N9dKUfM27a6eVc4.png"  alt="Index" align=center />
 
 
+
 An environment management tool that supports both **PHP** and **JAVA** websites running on port 80
 
 Because I often run Java Web in a Windows environment, but at the same time can not do without PHP, so this gadget was born
@@ -41,15 +42,11 @@ Because I often run Java Web in a Windows environment, but at the same time can 
 
 >* Microsoft .NET Framework 4 [[DownLoad]](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)
 >* VC++ 2013 (MySQL5.7 required)
->* Main [[DownLoad]](https://github.com/wzJun1/CH-Website-Environment-Management/releases/download/1.0.0/ch_start.zip)
->* Environment [[DownLoad]](https://github.com/wzJun1/CH-Website-Environment-Management/releases/download/1.0.0/soft.zip)
+>* Main [[DownLoad]](https://github.com/wzJun1/CH-Website-Environment-Management/releases/download/1.0.0/soft.zip)
 
 
 
 ## Use
 
-After installing .NET 4.0 and VC ++ 2013 runtime library,Download**Main**Unzip，Download again **Environment**
+After installing .NET 4.0 and VC ++ 2013 runtime library,Download**Main**Unzip And Run start.exe
 
-Then please in the **Main** root directory，Unzip **Environment**
-
-Get two folders in the root directory, 'soft' and 'www', then open the main program start.exe to run
